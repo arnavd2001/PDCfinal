@@ -1,3 +1,3 @@
 # PDCfinal
 
-Run the main.c File.
+Run the main.c file.
